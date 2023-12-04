@@ -3,7 +3,7 @@
 Home automation program that plays a song from a user-specified playlist whenever the door is opened. This program combines the power of IoT devices and music streaming services to create a delightful and functional experience. It creates a warm and welcoming atmosphere in your home, enhancing the overall experience for you and your guests. You can choose a playlist that sets the mood as soon as the front door opens, whether it's a cheerful tune for your family or a soothing melody for relaxation.
 
 *	Sensor: Magnetic Reed switch / contact sensor installed on the door. When the door is opened, the sensor detects the change and triggers the music playback.
-*	Playlist Configuration: The music is chosen from a user-specified Spotify playlist. Spotify Premium account and authentication required. 
+*	Playlist Configuration: The music is chosen from a user-specified Spotify playlist. Spotify Premium account and authentication is required. 
 
 <p align="center"><img src="./schema.jpg" width="800"></p>
 
